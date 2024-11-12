@@ -20,3 +20,9 @@ application.properties -> config
 	hibernate 
 	
 -----------------------------------------------------------------------------------
+
+ORM 
+
+class -> table
+
+class -> table -> entity class ->  
